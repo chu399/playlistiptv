@@ -7,3 +7,5 @@ http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1,Taiwan: TVBS-N
 http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
+#EXTINF:-1,China: BestTV4k_movie
+http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
