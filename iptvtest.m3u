@@ -1,0 +1,10 @@
+#EXTM3U https://hdbox.ws/en/news/43-ip-tv-kanaly.html
+#EXTINF:-1,USA: NEXT NEWS 
+https://ad.mysisli.com/live/NEXTTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,USA: CARTOON
+http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1,USA: CARTOON FHD
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
+
+#EXTINF:-1,Taiwan: TVBS-N
+http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
